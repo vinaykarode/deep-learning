@@ -2,3 +2,5 @@ image-classification/.ipynb_checkpoints/
 image-classification/__pycache__/
 image-classification/cifar-10-batches-py/
 image-classification/cifar-10-python.tar.gz
+data img class/
+kaggle/intel-cervical-cancer/train.7z
